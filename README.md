@@ -1,4 +1,4 @@
-# ObjectDetection\
+# ObjectDetection
 Single Shot Multibox Architecture\
     The network is composed of a base VGG network followed by the\
     added multibox conv layers.  Each multibox layer branches into\
